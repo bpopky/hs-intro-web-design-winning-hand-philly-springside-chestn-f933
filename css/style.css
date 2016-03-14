@@ -66,7 +66,7 @@ h3 {
 /* Ace */
 #ace {
     height: 300px;
-    width: 175px;
+    width: 200px;
     position: absolute;
     border-color: black;
     border-style: solid;
@@ -78,19 +78,19 @@ h3 {
 }
 #king {
     height: 300px;
-    width: 175px;
+    width: 200px;
     position: absolute;
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    left: 215px;
+    left: 210px;
     top: 150px;
     z-index: 1;
     background-color: white;
 }
 #queen {
     height: 300px;
-    width: 175px;
+    width: 200px;
     position: absolute;
     border-color: black;
     border-style: solid;
@@ -102,19 +102,19 @@ h3 {
 }
 #jack {
     height: 300px;
-    width: 175px;
+    width: 200px;
     position: absolute;
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    left: 625px;
+    left: 620px;
     top: 150px;
     z-index: 1;
     background-color: white;
 }
 #ten {
     height: 300px;
-    width: 175px;
+    width: 200px;
     position: absolute;
     border-color: black;
     border-style: solid;
